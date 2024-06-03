@@ -1,0 +1,18 @@
+[
+  {
+    "id": "C6KX",
+    "animal_type": "Кошка",
+    "animal_name": "Барсик",
+    "animal_color": "Рыжий",
+    "owner_name": "Вячеслав",
+    "owner_phone": "+79923128418"
+  },
+  {
+    "id": "A6KX",
+    "animal_type": "Собака",
+    "animal_name": "Бобик",
+    "animal_color": "Серый",
+    "owner_name": "Сиплый",
+    "owner_phone": "+7941123418"
+  }
+]
